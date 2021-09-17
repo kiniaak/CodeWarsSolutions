@@ -5,7 +5,6 @@ C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\bin\Debug\net5.0
 C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\bin\Debug\net5.0\Bank1.dll
 C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\bin\Debug\net5.0\ref\Bank1.dll
 C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\bin\Debug\net5.0\Bank1.pdb
-C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank1.csprojAssemblyReference.cache
 C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank1.AssemblyInfoInputs.cache
 C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank1.AssemblyInfo.cs

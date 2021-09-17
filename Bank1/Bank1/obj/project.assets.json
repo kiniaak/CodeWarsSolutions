@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kasic\\Desktop\\Repository\\CodeWarsSolutions\\Bank1\\Bank1\\Bank1.csproj",
-      "projectName": "Bank1",
-      "projectPath": "C:\\Users\\kasic\\Desktop\\Repository\\CodeWarsSolutions\\Bank1\\Bank1\\Bank1.csproj",
+      "projectUniqueName": "C:\\Users\\kasic\\Desktop\\Repository\\CodeWarsSolutions\\Bank1\\Bank1\\Bank.csproj",
+      "projectName": "Bank",
+      "projectPath": "C:\\Users\\kasic\\Desktop\\Repository\\CodeWarsSolutions\\Bank1\\Bank1\\Bank.csproj",
       "packagesPath": "C:\\Users\\kasic\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kasic\\Desktop\\Repository\\CodeWarsSolutions\\Bank1\\Bank1\\obj\\",
       "projectStyle": "PackageReference",

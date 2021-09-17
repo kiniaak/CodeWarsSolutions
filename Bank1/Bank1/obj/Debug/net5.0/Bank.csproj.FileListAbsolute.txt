@@ -1,0 +1,16 @@
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\bin\Debug\net5.0\Bank.exe
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\bin\Debug\net5.0\Bank.deps.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\bin\Debug\net5.0\Bank.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\bin\Debug\net5.0\ref\Bank.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\bin\Debug\net5.0\Bank.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank.csprojAssemblyReference.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\ref\Bank.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Bank1\Bank1\obj\Debug\net5.0\Bank.genruntimeconfig.cache
