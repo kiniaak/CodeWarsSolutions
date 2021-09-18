@@ -1,0 +1,16 @@
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\bin\Debug\net5.0\SumMixedArray.exe
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\bin\Debug\net5.0\SumMixedArray.deps.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\bin\Debug\net5.0\SumMixedArray.runtimeconfig.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\bin\Debug\net5.0\SumMixedArray.runtimeconfig.dev.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\bin\Debug\net5.0\SumMixedArray.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\bin\Debug\net5.0\ref\SumMixedArray.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\bin\Debug\net5.0\SumMixedArray.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\obj\Debug\net5.0\SumMixedArray.csprojAssemblyReference.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\obj\Debug\net5.0\SumMixedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\obj\Debug\net5.0\SumMixedArray.AssemblyInfoInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\obj\Debug\net5.0\SumMixedArray.AssemblyInfo.cs
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\obj\Debug\net5.0\SumMixedArray.csproj.CoreCompileInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\obj\Debug\net5.0\SumMixedArray.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\obj\Debug\net5.0\ref\SumMixedArray.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\obj\Debug\net5.0\SumMixedArray.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\SumMixedArray\SumMixedArray\obj\Debug\net5.0\SumMixedArray.genruntimeconfig.cache
