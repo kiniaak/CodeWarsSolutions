@@ -1,0 +1,16 @@
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\bin\Debug\net5.0\MultipleOfIndex.exe
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\bin\Debug\net5.0\MultipleOfIndex.deps.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\bin\Debug\net5.0\MultipleOfIndex.runtimeconfig.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\bin\Debug\net5.0\MultipleOfIndex.runtimeconfig.dev.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\bin\Debug\net5.0\MultipleOfIndex.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\bin\Debug\net5.0\ref\MultipleOfIndex.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\bin\Debug\net5.0\MultipleOfIndex.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\obj\Debug\net5.0\MultipleOfIndex.csprojAssemblyReference.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\obj\Debug\net5.0\MultipleOfIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\obj\Debug\net5.0\MultipleOfIndex.AssemblyInfoInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\obj\Debug\net5.0\MultipleOfIndex.AssemblyInfo.cs
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\obj\Debug\net5.0\MultipleOfIndex.csproj.CoreCompileInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\obj\Debug\net5.0\MultipleOfIndex.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\obj\Debug\net5.0\ref\MultipleOfIndex.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\obj\Debug\net5.0\MultipleOfIndex.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\MultipleOfIndex\MultipleOfIndex\obj\Debug\net5.0\MultipleOfIndex.genruntimeconfig.cache
