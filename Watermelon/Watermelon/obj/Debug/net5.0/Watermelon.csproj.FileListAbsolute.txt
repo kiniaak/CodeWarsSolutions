@@ -1,0 +1,16 @@
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\bin\Debug\net5.0\Watermelon.exe
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\bin\Debug\net5.0\Watermelon.deps.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\bin\Debug\net5.0\Watermelon.runtimeconfig.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\bin\Debug\net5.0\Watermelon.runtimeconfig.dev.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\bin\Debug\net5.0\Watermelon.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\bin\Debug\net5.0\ref\Watermelon.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\bin\Debug\net5.0\Watermelon.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\obj\Debug\net5.0\Watermelon.csprojAssemblyReference.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\obj\Debug\net5.0\Watermelon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\obj\Debug\net5.0\Watermelon.AssemblyInfoInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\obj\Debug\net5.0\Watermelon.AssemblyInfo.cs
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\obj\Debug\net5.0\Watermelon.csproj.CoreCompileInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\obj\Debug\net5.0\Watermelon.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\obj\Debug\net5.0\ref\Watermelon.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\obj\Debug\net5.0\Watermelon.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Watermelon\Watermelon\obj\Debug\net5.0\Watermelon.genruntimeconfig.cache

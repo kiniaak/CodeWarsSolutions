@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Watermelon", "Watermelon\Watermelon.csproj", "{688C3472-A345-473E-8AC4-4BD582D673D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{D748A5EA-C32C-44FD-9744-118B0F29D66A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{688C3472-A345-473E-8AC4-4BD582D673D3} = {688C3472-A345-473E-8AC4-4BD582D673D3}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{688C3472-A345-473E-8AC4-4BD582D673D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688C3472-A345-473E-8AC4-4BD582D673D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688C3472-A345-473E-8AC4-4BD582D673D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688C3472-A345-473E-8AC4-4BD582D673D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D748A5EA-C32C-44FD-9744-118B0F29D66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D748A5EA-C32C-44FD-9744-118B0F29D66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D748A5EA-C32C-44FD-9744-118B0F29D66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D748A5EA-C32C-44FD-9744-118B0F29D66A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B6D5A87-C565-4A3D-8527-899D8AF049A5}
+	EndGlobalSection
+EndGlobal
