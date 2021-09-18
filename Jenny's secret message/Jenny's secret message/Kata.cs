@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Jenny_s_secret_message
+﻿namespace Jenny_s_secret_message
 {
     public static class Kata
     {
