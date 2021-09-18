@@ -1,0 +1,16 @@
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\bin\Debug\net5.0\Remove First and Last Character.exe
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\bin\Debug\net5.0\Remove First and Last Character.deps.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\bin\Debug\net5.0\Remove First and Last Character.runtimeconfig.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\bin\Debug\net5.0\Remove First and Last Character.runtimeconfig.dev.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\bin\Debug\net5.0\Remove First and Last Character.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\bin\Debug\net5.0\ref\Remove First and Last Character.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\bin\Debug\net5.0\Remove First and Last Character.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\obj\Debug\net5.0\Remove First and Last Character.csprojAssemblyReference.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\obj\Debug\net5.0\Remove First and Last Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\obj\Debug\net5.0\Remove First and Last Character.AssemblyInfoInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\obj\Debug\net5.0\Remove First and Last Character.AssemblyInfo.cs
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\obj\Debug\net5.0\Remove First and Last Character.csproj.CoreCompileInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\obj\Debug\net5.0\Remove First and Last Character.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\obj\Debug\net5.0\ref\Remove First and Last Character.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\obj\Debug\net5.0\Remove First and Last Character.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\Remove First and Last Character\Remove First and Last Character\obj\Debug\net5.0\Remove First and Last Character.genruntimeconfig.cache
