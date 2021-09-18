@@ -1,0 +1,16 @@
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.exe
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.deps.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.runtimeconfig.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.runtimeconfig.dev.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\bin\Debug\net5.0\ref\CalculateAverage.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.csprojAssemblyReference.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.AssemblyInfoInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.AssemblyInfo.cs
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.csproj.CoreCompileInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\obj\Debug\net5.0\ref\CalculateAverage.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.genruntimeconfig.cache

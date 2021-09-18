@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateAverage", "CalculateAverage\CalculateAverage.csproj", "{AC7DDA07-EDEA-449F-8823-9EBBB7BD256A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{F53AC9CC-2EA4-4B0F-A78F-0B5000CE6E60}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AC7DDA07-EDEA-449F-8823-9EBBB7BD256A} = {AC7DDA07-EDEA-449F-8823-9EBBB7BD256A}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC7DDA07-EDEA-449F-8823-9EBBB7BD256A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC7DDA07-EDEA-449F-8823-9EBBB7BD256A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC7DDA07-EDEA-449F-8823-9EBBB7BD256A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC7DDA07-EDEA-449F-8823-9EBBB7BD256A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F53AC9CC-2EA4-4B0F-A78F-0B5000CE6E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53AC9CC-2EA4-4B0F-A78F-0B5000CE6E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53AC9CC-2EA4-4B0F-A78F-0B5000CE6E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53AC9CC-2EA4-4B0F-A78F-0B5000CE6E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEB5317-5B9B-4C98-9CCC-AEB0DB709440}
+	EndGlobalSection
+EndGlobal
