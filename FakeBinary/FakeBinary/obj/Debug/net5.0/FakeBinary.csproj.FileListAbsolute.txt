@@ -1,0 +1,5 @@
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\FakeBinary.csprojAssemblyReference.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\FakeBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\FakeBinary.AssemblyInfoInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\FakeBinary.AssemblyInfo.cs
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\FakeBinary.csproj.CoreCompileInputs.cache

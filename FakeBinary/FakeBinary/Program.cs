@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace FakeBinary
 {
     class Program
