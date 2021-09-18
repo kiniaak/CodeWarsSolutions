@@ -1,0 +1,16 @@
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\bin\Debug\net5.0\ReversedWords.exe
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\bin\Debug\net5.0\ReversedWords.deps.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\bin\Debug\net5.0\ReversedWords.runtimeconfig.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\bin\Debug\net5.0\ReversedWords.runtimeconfig.dev.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\bin\Debug\net5.0\ReversedWords.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\bin\Debug\net5.0\ref\ReversedWords.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\bin\Debug\net5.0\ReversedWords.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\obj\Debug\net5.0\ReversedWords.csprojAssemblyReference.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\obj\Debug\net5.0\ReversedWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\obj\Debug\net5.0\ReversedWords.AssemblyInfoInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\obj\Debug\net5.0\ReversedWords.AssemblyInfo.cs
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\obj\Debug\net5.0\ReversedWords.csproj.CoreCompileInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\obj\Debug\net5.0\ReversedWords.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\obj\Debug\net5.0\ref\ReversedWords.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\obj\Debug\net5.0\ReversedWords.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReversedWords\ReversedWords\obj\Debug\net5.0\ReversedWords.genruntimeconfig.cache
