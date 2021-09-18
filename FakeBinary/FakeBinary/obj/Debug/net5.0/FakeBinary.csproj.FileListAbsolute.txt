@@ -3,3 +3,14 @@ C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\De
 C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\FakeBinary.AssemblyInfoInputs.cache
 C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\FakeBinary.AssemblyInfo.cs
 C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\FakeBinary.csproj.CoreCompileInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\bin\Debug\net5.0\FakeBinary.exe
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\bin\Debug\net5.0\FakeBinary.deps.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\bin\Debug\net5.0\FakeBinary.runtimeconfig.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\bin\Debug\net5.0\FakeBinary.runtimeconfig.dev.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\bin\Debug\net5.0\FakeBinary.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\bin\Debug\net5.0\ref\FakeBinary.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\bin\Debug\net5.0\FakeBinary.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\FakeBinary.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\ref\FakeBinary.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\FakeBinary.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\FakeBinary\FakeBinary\obj\Debug\net5.0\FakeBinary.genruntimeconfig.cache
