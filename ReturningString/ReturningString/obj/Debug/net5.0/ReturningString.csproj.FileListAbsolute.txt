@@ -1,0 +1,16 @@
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\bin\Debug\net5.0\ReturningString.exe
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\bin\Debug\net5.0\ReturningString.deps.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\bin\Debug\net5.0\ReturningString.runtimeconfig.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\bin\Debug\net5.0\ReturningString.runtimeconfig.dev.json
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\bin\Debug\net5.0\ReturningString.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\bin\Debug\net5.0\ref\ReturningString.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\bin\Debug\net5.0\ReturningString.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\obj\Debug\net5.0\ReturningString.csprojAssemblyReference.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\obj\Debug\net5.0\ReturningString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\obj\Debug\net5.0\ReturningString.AssemblyInfoInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\obj\Debug\net5.0\ReturningString.AssemblyInfo.cs
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\obj\Debug\net5.0\ReturningString.csproj.CoreCompileInputs.cache
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\obj\Debug\net5.0\ReturningString.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\obj\Debug\net5.0\ref\ReturningString.dll
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\obj\Debug\net5.0\ReturningString.pdb
+C:\Users\kasic\Desktop\Repository\CodeWarsSolutions\ReturningString\ReturningString\obj\Debug\net5.0\ReturningString.genruntimeconfig.cache
